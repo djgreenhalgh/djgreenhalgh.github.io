@@ -45,3 +45,12 @@ ul.posts li {
 #title {
     text-align: center;
 }
+
+#footercontent {
+    justify-content: center;
+    text-align: center;
+}
+
+#content {
+    text-align: center;
+}
